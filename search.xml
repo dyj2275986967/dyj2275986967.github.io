@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>牛皮的人</title>
+    <title>测试</title>
     <url>/post/2020-05-04-%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
@@ -58,7 +58,7 @@
   <entry>
     <title>Hello World</title>
     <url>/post/2016-07-13-%E2%80%9CHelloWorld%E2%80%9D/</url>
-    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><h1 id="代勇静最帅"><a href="#代勇静最帅" class="headerlink" title="代勇静最帅"></a>代勇静最帅</h1>]]></content>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1>]]></content>
       <categories>
         <category>Diary</category>
       </categories>
